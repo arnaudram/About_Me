@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Arnaud</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio">Android Studio fully supports Kotlin, enabling you to create
+        \n new projects with Kotlin files, add Kotlin files to your
+        \n existing project, and convert Java language code to Kotlin.
+        \n \n \n \n You can use all of Android Studio\'s existing tools with
+        \n your Kotlin code, including code completion, lint checking, refactoring, debugging, and more.
+    \n \n \n A VectorDrawable is a vector graphic defined in an XML file as a set of points, lines, and curves
+        \n along with its associated color information. The major advantage of using a vector
+        \n drawable is image scalability. It can be scaled without loss of display quality, which means the same
+        \n file is resized for different screen densities without</string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
 </resources>
